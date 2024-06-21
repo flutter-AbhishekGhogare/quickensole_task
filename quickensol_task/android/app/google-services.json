@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252804690112",
+    "project_id": "quickensol-task",
+    "storage_bucket": "quickensol-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252804690112:android:db0b99d8a0ec34e2337d25",
+        "android_client_info": {
+          "package_name": "com.example.quickensol_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuOCcnSoHJvOGOEQ_GoJoD9-7qNlPO3cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
